@@ -1,5 +1,5 @@
 # Anca's Classroom
-![game](better_screenshot.png)
+![game](better_game.png)
 
 ## Project description
 
