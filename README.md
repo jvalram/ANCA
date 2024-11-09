@@ -1,6 +1,5 @@
-# project title
+# Anca's Classroom
 
-(include screenshot here)
 
 ## Project description
 
