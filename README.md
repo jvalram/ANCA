@@ -7,8 +7,7 @@ A text-based horror game based on Dr. Anca (with permisison) using html, css, p5
 
 ## Team members
 
-Ciera Baucham (@QueenCee48), Julissa Valdez-Ramos (@jvalram), ...
-
+Ciera Baucham (@QueenCee48) and Julissa Valdez-Ramos (@jvalram)
 ## Challenges that you faced
 The time constraint meant our project stayed unfinished but we got pretty far
 
